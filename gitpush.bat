@@ -1,5 +1,5 @@
 @ECHO OFF
 git add .
 git commit
-git push origin
+git push origin main
 PAUSE
