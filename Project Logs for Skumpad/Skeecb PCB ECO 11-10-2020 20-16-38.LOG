@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=NetC11_1 Pin=SW1-3
+Removed Pin From Net: NetName=GND Pin=SW1-4
+Change Component Footprint: Designator=SW1 Old Footprint=430186070716 New Footprint=BOUR-7914G-1-000E_V
+Change Component Comment : Designator=SW1 Old Comment=430186070716 New Comment=7914G-1-000E
+Change Component Designator: OldDesignator=X1 NewDesignator=Y1
+Change Managed Component Library Link : Designator=SW1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6AACC368-088E-4A4B-8846-9FE5D62BDB63 New ItemGUID=42FF6985-C457-42A7-9399-8AF943BD08FC Old RevisionGUID=4495410A-C6B0-4B25-A412-BD2EF52CDCE3 New RevisionGUID=C25033BF-DDBD-40DA-8034-6EF6BD62907E
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "430186070716"; UniqueID = "\MYDDFOKU" ("\MYDDFOKU")
+Change component parameters (AddParameter): Name = "Actuator Color"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator Length"; Value = "1.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator Style"; Value = "RoundButton"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Base Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Body Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Rating @ Voltage"; Value = "0.1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "COO"; Value = "TW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.bourns.com/docs/Product-Datasheets/7914.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "08/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric Strength"; Value = "250VAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dimension"; Value = "5x6.2x4.19mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ECCN"; Value = "EAR99"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Electrical Life"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "7914"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ground Terminal"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HTS"; Value = "8536509065"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Illumination Type"; Value = "N/R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.bourns.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum AC Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum Contact Resistance"; Value = "100mOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum DC Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mechanical Life"; Value = "100000Cycles"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Insulation Resistance"; Value = "100MOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting"; Value = "SurfaceMount,GullWing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Force"; Value = "2.94N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55to125C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "4-Pin Surface Mount Device, Body 5 x 5 mm, Height 4.49 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "7914G-1-000E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "EmbossedTapeandReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part No"; Value = "7914G-1-000E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pole Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Weight"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Seal Description"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Seal Location"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Configuration"; Value = "N.O."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "KeySwitch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SW1-3
+Added Pin To Net: NetName=NetC11_1 Pin=SW1-4
+Added Member To Class: ClassName=Skematic Member=Component C6 100nF
+Added Room: Name=Skematic
