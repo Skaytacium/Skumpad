@@ -1,0 +1,59 @@
+Altium Designer Pick and Place Locations
+C:\Users\Sid K\Documents\skayboard\Altium\Skumpad\Altium\Project Outputs for Skumpad\Pick Place for Skeecb.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       14/10/20
+Time:       17:32
+Revision:   c7fc2aab818cf1c0ded9160fb0fbdae3be3c4757
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"X1","ABLS-8.000MHZ-B4-T","BottomLayer","ABRA-ABLS-14.7456MHZ-B2-T_V","2527.559","2933.071","90","Low Profile Crystal, 8.0 MHz, +/- 30 ppm, -20 to 70 degC, 2-Pin SMD, RoHS, Tape and Reel"
+"SW1","7914G-1-000E","BottomLayer","BOUR-7914G-1-000E_V","2370.079","3422.835","360","SPST Gull Wing Sealed Key Switch, 100 mA, 16 V, -55 to 125 degC, 4-Pin SMD, RoHS, Tape and Reel"
+"C13","100nF","BottomLayer","FP-C0402-BB-MFG","2134.150","3445.294","90","CAP CER 0.1UF 10V X5R 0402"
+"C12","100nF","BottomLayer","FP-C0402-BB-MFG","1818.756","3310.189","180","CAP CER 0.1UF 10V X5R 0402"
+"U1","ATmega32U4-AU","BottomLayer","44ML_M","1976.378","2948.819","270","8-bit AVR Microcontroller, 2.7-5.5V, 16MHz, 32KB Flash, 1KB EEPROM, 2.5KB SRAM, USB Controller, 44-pin TQFP, Industrial Grade (-40°C to 85°C), Ext Osc"
+"R29","10K","BottomLayer","RESC1005X40X25NL05T05","2377.952","3210.236","180",""
+"R28","1M","BottomLayer","RESC0402(1005)_M","3599.599","3620.319","0","1M 0.063W 1% 0402 (1005 Metric)  SMD"
+"R27","1M","BottomLayer","RESC0402(1005)_M","2812.992","3622.047","180","1M 0.063W 1% 0402 (1005 Metric)  SMD"
+"R26","1M","BottomLayer","RESC0402(1005)_M","3596.681","3046.539","0","1M 0.063W 1% 0402 (1005 Metric)  SMD"
+"R25","1M","BottomLayer","RESC0402(1005)_M","3030.257","3050.310","0","1M 0.063W 1% 0402 (1005 Metric)  SMD"
+"R24","1M","BottomLayer","RESC0402(1005)_M","1242.126","393.701","180","1M 0.063W 1% 0402 (1005 Metric)  SMD"
+"R23","1M","BottomLayer","RESC0402(1005)_M","413.386","393.701","180","1M 0.063W 1% 0402 (1005 Metric)  SMD"
+"R22","1M","BottomLayer","RESC0402(1005)_M","3602.765","2012.981","0","1M 0.063W 1% 0402 (1005 Metric)  SMD"
+"R21","1M","BottomLayer","RESC0402(1005)_M","3602.362","1220.472","0","1M 0.063W 1% 0402 (1005 Metric)  SMD"
+"R20","1M","BottomLayer","RESC0402(1005)_M","2797.244","1220.472","180","1M 0.063W 1% 0402 (1005 Metric)  SMD"
+"R19","1M","BottomLayer","RESC0402(1005)_M","3602.362","393.701","0","1M 0.063W 1% 0402 (1005 Metric)  SMD"
+"R18","1M","BottomLayer","RESC0402(1005)_M","2816.929","393.701","180","1M 0.063W 1% 0402 (1005 Metric)  SMD"
+"R17","1M","BottomLayer","RESC0402(1005)_M","2072.243","1216.891","270","1M 0.063W 1% 0402 (1005 Metric)  SMD"
+"R16","1M","BottomLayer","RESC0402(1005)_M","2029.527","393.701","180","1M 0.063W 1% 0402 (1005 Metric)  SMD"
+"R15","1M","BottomLayer","RESC0402(1005)_M","2022.229","2072.436","270","1M 0.063W 1% 0402 (1005 Metric)  SMD"
+"R14","1M","BottomLayer","RESC0402(1005)_M","2007.920","2537.231","270","1M 0.063W 1% 0402 (1005 Metric)  SMD"
+"R13","1M","BottomLayer","RESC0402(1005)_M","1198.819","1220.472","180","1M 0.063W 1% 0402 (1005 Metric)  SMD"
+"R12","1M","BottomLayer","RESC0402(1005)_M","411.417","1220.472","180","1M 0.063W 1% 0402 (1005 Metric)  SMD"
+"R11","1M","BottomLayer","RESC0402(1005)_M","2816.929","2007.874","180","1M 0.063W 1% 0402 (1005 Metric)  SMD"
+"R10","1M","BottomLayer","RESC0402(1005)_M","1238.189","2007.874","180","1M 0.063W 1% 0402 (1005 Metric)  SMD"
+"R9","1M","BottomLayer","RESC0402(1005)_M","413.386","2007.874","180","1M 0.063W 1% 0402 (1005 Metric)  SMD"
+"R8","1M","BottomLayer","RESC0402(1005)_M","411.417","2795.276","180","1M 0.063W 1% 0402 (1005 Metric)  SMD"
+"R7","1M","BottomLayer","RESC0402(1005)_M","1198.819","2795.276","180","1M 0.063W 1% 0402 (1005 Metric)  SMD"
+"R6","1M","BottomLayer","RESC0402(1005)_M","411.417","3622.047","180","1M 0.063W 1% 0402 (1005 Metric)  SMD"
+"R5","1M","BottomLayer","RESC0402(1005)_M","1198.819","3622.047","180","1M 0.063W 1% 0402 (1005 Metric)  SMD"
+"R4","5.1K","BottomLayer","RESC1005X40X25NL10T10","1870.079","3641.732","180",""
+"R3","5.1K","BottomLayer","RESC1005X40X25NL10T10","2185.039","3641.732","360",""
+"R2","22R","BottomLayer","RESC1005X40X25LL05T05","1924.803","3440.551","90",""
+"R1","22R","BottomLayer","RESC1005X40X25LL05T05","1869.685","3440.551","90",""
+"J1","1054500101","BottomLayer","FP-1054500101-MFG","2027.559","3811.614","360","CONN RCP USB3.1 TYPEC 24P SMD RA"
+"C11","100nF","BottomLayer","CAPC1050X55X23ML05T13","2377.953","3257.480","360","Chip Capacitor, 100 nF, +/- 10%, 16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"
+"C10","100nF","BottomLayer","FP-C0402-BB-MFG","2307.087","3043.307","360","CAP CER 0.1UF 10V X5R 0402"
+"C9","100nF","BottomLayer","FP-C0402-BB-MFG","1976.378","3271.654","90","CAP CER 0.1UF 10V X5R 0402"
+"C8","100nF","BottomLayer","FP-C0402-BB-MFG","1653.543","2791.339","180","CAP CER 0.1UF 10V X5R 0402"
+"C7","100nF","BottomLayer","FP-C0402-BB-MFG","1653.543","3106.299","180","CAP CER 0.1UF 10V X5R 0402"
+"C6","100nF","BottomLayer","FP-C0402-BB-MFG","2103.860","2621.577","270","CAP CER 0.1UF 10V X5R 0402"
+"C5","22pF","BottomLayer","CAPC1005X56X25NL10T15","2649.606","2763.779","270",""
+"C4","22pF","BottomLayer","CAPC1005X56X25NL10T15","2649.606","3102.362","90",""
+"C3","100nF","BottomLayer","CAPC1050X55X23ML05T13","1645.669","3043.307","360","Chip Capacitor, 100 nF, +/- 10%, 16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"
+"C2","47pF","BottomLayer","CAPC1005X55X30ML05T10","1850.000","3381.496","180",""
+"C1","47pF","BottomLayer","CAPC1005X55X30ML05T10","1944.488","3381.496","180",""

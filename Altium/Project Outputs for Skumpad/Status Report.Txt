@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Skumpad.PrjPcb]
+   Generated File[Skeecb-RoundHoles.TXT]
+   Generated File[Skeecb-SlotHoles.TXT]
+   Generated File[Skeecb.LDP]
+   Generated File[Skeecb.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 5:33:12 PM On 10/14/2020
