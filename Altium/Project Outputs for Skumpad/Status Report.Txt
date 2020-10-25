@@ -1,13 +1,31 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [Skumpad.PrjPcb]
-   Generated File[Skeecb-RoundHoles.TXT]
-   Generated File[Skeecb-SlotHoles.TXT]
-   Generated File[Skeecb.LDP]
-   Generated File[Skeecb.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Skumpad.PrjPcb]
+   Generated File[Skeecb.GTO]
+   Generated File[Skeecb.GTS]
+   Generated File[Skeecb.GTL]
+   Generated File[Skeecb.GBL]
+   Generated File[Skeecb.GBS]
+   Generated File[Skeecb.GBO]
+   Generated File[Skeecb.GM1]
+   Generated File[Skeecb.GM2]
+   Generated File[Skeecb.GM3]
+   Generated File[Skeecb.GM5]
+   Generated File[Skeecb.GM13]
+   Generated File[Skeecb.GM15]
+   Generated File[Skeecb.GM16]
+   Generated File[Skeecb.GM20]
+   Generated File[Skeecb.GM21]
+   Generated File[Skeecb.GM23]
+   Generated File[Skeecb.GM24]
+   Generated File[Skeecb.GKO]
+   Generated File[Skeecb.GG1]
+   Generated File[Skeecb.RUL]
+   Generated File[Skeecb.EXTREP]
+   Generated File[Skeecb.REP]
 
 
-Files Generated   : 4
+Files Generated   : 22
 Documents Printed : 0
 
-Finished Output Generation At 5:33:12 PM On 10/14/2020
+Finished Output Generation At 17:20:46 On 25-10-2020

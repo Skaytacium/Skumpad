@@ -2,300 +2,6 @@
 FileName = Skeecb.GBR
 AutoAperture = True
 *************************************************************
-Generating : Multi-Layer
-      File : Skeecb.GML
-
-    Adding Layer      : Multi-Layer
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Top Component Center
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Bottom Component Center
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D15
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : Skeecb.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Top Component Center
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Bottom Component Center
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Top 3D Body
-      File : Skeecb.GM2
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Top Component Center
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Bottom Component Center
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Skeecb.GTO
-
-    Adding Layer      : Top Overlay
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Top Component Center
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Bottom Component Center
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Bottom Assembly
-      File : Skeecb.GM20
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Top Component Center
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Bottom Component Center
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : Skeecb.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Top Component Center
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Bottom Component Center
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D15
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Bottom Courtyard
-      File : Skeecb.GM21
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Top Component Center
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Bottom Component Center
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Top Courtyard
-      File : Skeecb.GM3
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Top Component Center
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Bottom Component Center
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-*************************************************************
-
-*************************************************************
 Generating : Bottom Overlay
       File : Skeecb.GBO
 
@@ -334,10 +40,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Component Center
-      File : Skeecb.GM16
+Generating : Bottom Solder
+      File : Skeecb.GBS
 
-    Adding Layer      : Top Component Center
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Mechanical 1
 
@@ -360,44 +66,10 @@ Generating : Top Component Center
     Adding Layer      : Bottom 3D Body
 
     Adding Layer      : Bottom Component Center
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : Skeecb.GPB
 
     Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Top Component Center
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Bottom Component Center
 
 
 Used DCodes :
@@ -407,28 +79,29 @@ Used DCodes :
     D13
     D15
     D16
+    D17
     D23
     D24
-    D25
     D26
     D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : Skeecb.GBP
+Generating : Top Solder
+      File : Skeecb.GTS
 
-    Adding Layer      : Bottom Paste
+    Adding Layer      : Top Solder
 
     Adding Layer      : Mechanical 1
 
@@ -452,7 +125,7 @@ Generating : Bottom Paste
 
     Adding Layer      : Bottom Component Center
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
@@ -462,28 +135,17 @@ Used DCodes :
     D11
     D12
     D13
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
+    D14
+    D15
+    D16
+    D17
 *************************************************************
 
 *************************************************************
-Generating : Bottom Component Center
-      File : Skeecb.GM24
+Generating : Top 3D Body
+      File : Skeecb.GM2
 
-    Adding Layer      : Bottom Component Center
+    Adding Layer      : Top 3D Body
 
     Adding Layer      : Mechanical 1
 
@@ -552,48 +214,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : Skeecb.GTP
+Generating : Keep-Out Layer
+      File : Skeecb.GKO
 
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top 3D Body
-
-    Adding Layer      : Top Courtyard
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Top Component Center
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Bottom Courtyard
-
-    Adding Layer      : Bottom 3D Body
-
-    Adding Layer      : Bottom Component Center
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : Skeecb.GG1
+    Adding Layer      : Keep-Out Layer
 
     Adding Layer      : Mechanical 1
 
@@ -617,24 +241,19 @@ Generating : Drill Guide
 
     Adding Layer      : Bottom Component Center
 
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Guide
-
 
 Used DCodes :
     D10
     D11
     D12
     D13
-    D51
 *************************************************************
 
 *************************************************************
-Generating : Dielectric 1
-      File : Skeecb.1
+Generating : Top Overlay
+      File : Skeecb.GTO
 
-    Adding Layer      : Dielectric 1
+    Adding Layer      : Top Overlay
 
     Adding Layer      : Mechanical 1
 
@@ -726,10 +345,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : Skeecb.GTS
+Generating : Bottom Assembly
+      File : Skeecb.GM20
 
-    Adding Layer      : Top Solder
+    Adding Layer      : Bottom Assembly
 
     Adding Layer      : Mechanical 1
 
@@ -753,27 +372,19 @@ Generating : Top Solder
 
     Adding Layer      : Bottom Component Center
 
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
 
 Used DCodes :
     D10
     D11
     D12
     D13
-    D14
-    D15
-    D16
-    D17
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : Skeecb.GBS
+Generating : Bottom Courtyard
+      File : Skeecb.GM21
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Bottom Courtyard
 
     Adding Layer      : Mechanical 1
 
@@ -797,9 +408,41 @@ Generating : Bottom Solder
 
     Adding Layer      : Bottom Component Center
 
-    Adding Layer      : Bottom Layer
 
-    Adding Layer      : Multi-Layer
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : Skeecb.GM23
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Bottom Component Center
 
 
 Used DCodes :
@@ -807,31 +450,13 @@ Used DCodes :
     D11
     D12
     D13
-    D15
-    D16
-    D17
-    D23
-    D24
-    D26
-    D27
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 15
-      File : Skeecb.GM15
+Generating : Bottom Component Center
+      File : Skeecb.GM24
 
-    Adding Layer      : Mechanical 15
+    Adding Layer      : Bottom Component Center
 
     Adding Layer      : Mechanical 1
 
@@ -908,10 +533,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Assembly
-      File : Skeecb.GM5
+Generating : Top Component Center
+      File : Skeecb.GM16
 
-    Adding Layer      : Top Assembly
+    Adding Layer      : Top Component Center
 
     Adding Layer      : Mechanical 1
 
@@ -944,10 +569,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom 3D Body
-      File : Skeecb.GM23
+Generating : Mechanical 15
+      File : Skeecb.GM15
 
-    Adding Layer      : Bottom 3D Body
+    Adding Layer      : Mechanical 15
 
     Adding Layer      : Mechanical 1
 
@@ -1013,5 +638,116 @@ Used DCodes :
     D11
     D12
     D13
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : Skeecb.GM5
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : Skeecb.GM3
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Skeecb.GG1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D51
 *************************************************************
 
