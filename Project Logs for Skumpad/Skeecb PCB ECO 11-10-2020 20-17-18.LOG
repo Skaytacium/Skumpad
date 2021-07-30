@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=NetC11_1 Pin=SW1-3
-Removed Pin From Net: NetName=GND Pin=SW1-4
-Change Component Footprint: Designator=SW1 Old Footprint=430186070716 New Footprint=BOUR-7914G-1-000E_V
-Change Component Comment : Designator=SW1 Old Comment=430186070716 New Comment=7914G-1-000E
-Change Component Designator: OldDesignator=X1 NewDesignator=Y1
-Added Pin To Net: NetName=GND Pin=SW1-3
-Added Pin To Net: NetName=NetC11_1 Pin=SW1-4
-Added Member To Class: ClassName=Skematic Member=Component Y1 16Mhz
-Added Room: Name=Skematic
