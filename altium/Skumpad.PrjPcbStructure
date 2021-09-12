@@ -1,1 +1,2 @@
-Record=TopLevelDocument|FileName=Skumpad.SchDoc|SheetNumber= 
+Record=TopLevelDocument|FileName=CSensor.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CSensor.SchDoc|FileName=Skumpad.SchDoc|SheetNumber= 
